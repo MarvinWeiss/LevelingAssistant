@@ -12,6 +12,7 @@ I'm currently working on a adaption for the holder to fit on Anycubic i3 Mega pr
 I use the holder with a generic dial indicator from amazon, nothing fancy and it works like a charm. 
 
 
+So far it is tested on Mac OS Catalina and Windows 10
 
 ## Installation
 To use the software you have to install two python lybraries.
