@@ -1,6 +1,6 @@
-## Bed Leveling Assistant for Anycubic i3 mega 3d printers with the help of dial indicators
+# Bed Leveling Assistant for Anycubic i3 mega 3d printers with the help of dial indicators
 
-# Introduction
+## Introduction
 This software can be used as helper tool to level Anycubic i3 mega printers. 
 
 I found inspiration to implement it because of a Video by SunShine on youtube: https://youtu.be/RFkn6gMkz78
@@ -12,7 +12,7 @@ I use the holder with a generic dial indicator from amazon, nothing fancy and it
 To always measure at the same spots I wrote this piece of software. 
 
 
-# Installation
+## Installation
 To use the software you have to install two python lybraries.
 ```
 pip install pyserial
@@ -23,7 +23,7 @@ If you run into module not found errors try
 
 `python -m pip install --upgrade appJar`
 
-# Usage
+## Usage
 To start it just type:
 `python  levelingAssistant.py`
 
