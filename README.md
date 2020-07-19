@@ -7,9 +7,10 @@ I found inspiration to implement it because of a Video by SunShine on youtube: h
 
 it consists of a print in place dial indicator as well as a holder for it do slip onto the printhead.
 The STLs can be found here on thingiverse: https://www.thingiverse.com/thing:4524389
-I'm currently working on a adaption for the holder to fit on Anycubic i3 Mega printers. 
+To always measure at the same spots I developed this piece of software. 
+I'm currently working on a adaption for the holder to fit on Anycubic i3 Mega printers. I will post it here as whell when I'm done.
 I use the holder with a generic dial indicator from amazon, nothing fancy and it works like a charm. 
-To always measure at the same spots I wrote this piece of software. 
+
 
 
 ## Installation
