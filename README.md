@@ -25,7 +25,7 @@ If you run into module not found errors try
 
 # Usage
 To start it just type:
-`python  levelingAssistant.py``
+`python  levelingAssistant.py`
 
 After startup select your Printer in the Dropdown menu, it's a list with all the serial ports known to your computer. 
 When selected, click Connect. It automatically homes the printer.
